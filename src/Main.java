@@ -1,3 +1,6 @@
+import java.sql.SQLOutput;
+import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args) {
 
@@ -14,5 +17,11 @@ public class Main {
         equipo1.anadirCiclista(escalador);
 
         equipo1.imprimirDatosEquipo();
+
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Ingrese el ID del ciclista a buscar");
+        int id = scanner.nextInt();
+
+        equipo1.imprimirDatosCiclistaPorId(id);
     }
 }
