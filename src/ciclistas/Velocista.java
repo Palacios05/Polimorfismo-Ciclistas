@@ -1,3 +1,5 @@
+package ciclistas;
+
 public class Velocista extends Ciclista{
 
     private double  potenciaPromedio; // Unidad de medida de vatios
@@ -27,7 +29,7 @@ public class Velocista extends Ciclista{
 
     @Override
     public String imprimirTipo() {
-        return "Es un Velocista";
+        return "Es un ciclistas.Velocista";
     }
 
     @Override

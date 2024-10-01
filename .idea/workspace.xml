@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3cda4607-17e9-421c-99f7-e2f7d01bc7e9" name="Changes" comment="Primera Version">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ciclista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ciclista.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Contrarrelojista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Contrarrelojista.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Equipo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Equipo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Escalador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Escalador.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Velocista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Velocista.java" afterDir="false" />
-    </list>
+    <list default="true" id="3cda4607-17e9-421c-99f7-e2f7d01bc7e9" name="Changes" comment="Final Clase" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +19,21 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Palacios05"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Palacios05/Polimorfismo-Ciclistas.git",
+    "accountId": "fb88a9ca-47f7-4a75-8ee3-8c0d488d4c01"
+  }
+}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
@@ -54,10 +61,28 @@
       <option name="presentableId" value="Default" />
       <updated>1727137408372</updated>
     </task>
+    <task id="LOCAL-00001" summary="Primera Version">
+      <option name="closed" value="true" />
+      <created>1727143518835</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727143518835</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Final Clase">
+      <option name="closed" value="true" />
+      <created>1727143767803</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727143767803</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primera Version" />
-    <option name="LAST_COMMIT_MESSAGE" value="Primera Version" />
+    <MESSAGE value="Final Clase" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final Clase" />
   </component>
 </project>

@@ -1,3 +1,5 @@
+package ciclistas;
+
 public class Contrarrelojista extends Ciclista{
 
     private double velocidadMaxima; // valor unidad de medida en Km/h
@@ -17,7 +19,7 @@ public class Contrarrelojista extends Ciclista{
 
     @Override
     public String imprimirTipo() {
-        return "Es un Contrarrelojista";
+        return "Es un ciclistas.Contrarrelojista";
     }
 
     @Override

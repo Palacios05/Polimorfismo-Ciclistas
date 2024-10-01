@@ -1,4 +1,7 @@
-import java.sql.SQLOutput;
+import ciclistas.Contrarrelojista;
+import ciclistas.Escalador;
+import ciclistas.Velocista;
+
 import java.util.Scanner;
 
 public class Main {

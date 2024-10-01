@@ -1,3 +1,5 @@
+package ciclistas;
+
 public class Escalador extends Ciclista{
 
     private float aceleracionPromedio; // valor de acelaron de promedio m/s2
@@ -27,7 +29,7 @@ public class Escalador extends Ciclista{
 
     @Override
     public String imprimirTipo() {
-        return "Es un Escalador";
+        return "Es un ciclistas.Escalador";
     }
 
     @Override

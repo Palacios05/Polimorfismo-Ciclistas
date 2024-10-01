@@ -1,3 +1,5 @@
+import ciclistas.Ciclista;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -67,7 +69,7 @@ public class Equipo {
 
             }
         }
-        System.out.println("Ciclista con el ID " + id + " no encontrado.");
+        System.out.println("ciclistas.Ciclista con el ID " + id + " no encontrado.");
 
     }
 }
