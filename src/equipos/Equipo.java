@@ -1,11 +1,13 @@
 package equipos;
 
 import ciclistas.Ciclista;
+import interfaces.Competencia;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class Equipo {
+public class Equipo implements Competencia {
+
     private String nombreEquipo;
     private String pais;
     private static int tiempoTotalEquipo = 0;
@@ -73,5 +75,18 @@ public class Equipo {
         }
         System.out.println("ciclistas.Ciclista con el ID " + id + " no encontrado.");
 
+    }
+
+    @Override
+    public void calcularTiempoTotal() {
+
+        for (Ciclista ciclista : ciclistas){
+            tiempoTotalEquipo += ciliclista.getTiempoAcumulado();
+        }
+    }
+
+    @Override
+    public void listarParticipantes() {
+        listarNombresCiclistas();
     }
 }
