@@ -1,6 +1,7 @@
 import ciclistas.Contrarrelojista;
 import ciclistas.Escalador;
 import ciclistas.Velocista;
+import equipos.Equipo;
 
 import java.util.Scanner;
 
@@ -9,7 +10,7 @@ public class Main {
 
         System.out.println("Ejercicio practico sobre polimorfismo");
 
-        Equipo equipo1 = new Equipo("Equipo A", "Colombia");
+        Equipo equipo1 = new Equipo("equipos.Equipo A", "Colombia");
 
         Velocista velocista = new Velocista(1, "Juan Jose", 250.5, 60.0);
         Escalador escalador = new Escalador(2,"Esteban", 5.5f, 15f);

@@ -1,3 +1,5 @@
+package equipos;
+
 import ciclistas.Ciclista;
 
 import java.util.ArrayList;
